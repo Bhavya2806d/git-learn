@@ -1,0 +1,1 @@
+this is my readme file inside gitdeo/localrepo/index.html,style.css,readme.md
